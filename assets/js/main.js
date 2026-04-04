@@ -13,13 +13,13 @@
 /*=============== SWIPER TESTIMONIAL ===============*/
 
 
-/*=============== SHOW SCROLL UP ===============*/ 
+/*=============== SHOW SCROLL UP ===============*/
 
 
 /*=============== SCROLL SECTIONS ACTIVE LINK ===============*/
 
 
-/*=============== GSAP ANIMATION ===============*/ 
+/*=============== GSAP ANIMATION ===============*/
 
 
 /* Home animation */
