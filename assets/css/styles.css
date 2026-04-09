@@ -211,6 +211,11 @@ img {
   transition: background-color 0.4s;
 }
 
+.nav__button:hover {
+  background-color: var(--first-color-alt);
+  color: var(--title-color);
+}
+
 /* Show menu */
 
 /* Change header styles */
