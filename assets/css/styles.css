@@ -193,6 +193,12 @@ img {
   row-gap: 2.5rem;
 }
 
+.nav__link {
+  color: var(--title-color);
+  font-weight: var(--font-semi-bold);
+  transition: color 0.4s;
+}
+
 /* Show menu */
 
 /* Change header styles */
