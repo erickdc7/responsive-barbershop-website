@@ -199,6 +199,10 @@ img {
   transition: color 0.4s;
 }
 
+.nav__link:hover {
+  color: var(--first-color);
+}
+
 /* Show menu */
 
 /* Change header styles */
