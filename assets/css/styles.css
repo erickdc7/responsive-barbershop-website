@@ -172,6 +172,20 @@ img {
 }
 
 /* Navigation for mobile devices <> */
+@media (width <= 1150px) {
+  .nav__menu {
+    position: fixed;
+    top: 0;
+    right: 0;
+    background-color: var(--body-color);
+    width: 300px;
+    height: 100%;
+    box-shadow: -8px 0 16px hsla(0, 0%, 0%, 0.15);
+    padding: 7rem 0 2rem 2rem;
+    z-index: var(--z-fixed);
+    transition: right 0.4s;
+  }
+}
 
 /* Show menu */
 
