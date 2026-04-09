@@ -176,7 +176,7 @@ img {
   .nav__menu {
     position: fixed;
     top: 0;
-    right: 0;
+    right: -120%;
     background-color: var(--body-color);
     width: 300px;
     height: 100%;
