@@ -187,6 +187,12 @@ img {
   }
 }
 
+.nav__list {
+  display: flex;
+  flex-direction: column;
+  row-gap: 2.5rem;
+}
+
 /* Show menu */
 
 /* Change header styles */
