@@ -203,6 +203,14 @@ img {
   color: var(--first-color);
 }
 
+.nav__button {
+  background-color: var(--first-color);
+  padding: 1rem 2rem;
+  border-radius: 0.5rem;
+  display: inline-flex;
+  transition: background-color 0.4s;
+}
+
 /* Show menu */
 
 /* Change header styles */
