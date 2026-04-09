@@ -289,6 +289,10 @@ img {
     align-items: center;
     column-gap: 4rem;
   }
+
+  .nav__link {
+    color: var(--white-color);
+  }
 }
 
 /* For 2K resolutions <> */
