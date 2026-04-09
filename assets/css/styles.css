@@ -266,5 +266,8 @@ img {
 /* For medium devices <> */
 
 /* For large devices <> */
+@media (width >= 1150px) {
+  
+}
 
 /* For 2K resolutions <> */
