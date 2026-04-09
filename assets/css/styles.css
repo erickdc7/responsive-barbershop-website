@@ -267,7 +267,9 @@ img {
 
 /* For large devices <> */
 @media (width >= 1150px) {
-  
+  .container {
+    margin-inline: auto;
+  }
 }
 
 /* For 2K resolutions <> */
