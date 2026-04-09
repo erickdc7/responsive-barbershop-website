@@ -164,6 +164,13 @@ img {
   transition: color 0.4s;
 }
 
+.nav__toggle {
+  color: var(--white-color);
+  font-size: 1.5rem;
+  cursor: pointer;
+  transition: color 0.4s;
+}
+
 /* Navigation for mobile devices <> */
 
 /* Show menu */
