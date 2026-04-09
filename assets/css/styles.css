@@ -274,6 +274,10 @@ img {
   .section {
     padding-block: 7rem 5rem;
   }
+
+  .nav {
+    height: calc(var(--header-height) + 2rem);
+  }
 }
 
 /* For 2K resolutions <> */
