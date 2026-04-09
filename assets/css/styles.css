@@ -293,6 +293,10 @@ img {
   .nav__link {
     color: var(--white-color);
   }
+
+  .nav__button {
+    color: var(--title-color);
+  }
 }
 
 /* For 2K resolutions <> */
