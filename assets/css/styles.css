@@ -235,6 +235,11 @@ img {
 /* Active link */
 
 /*=============== HOME SECTION ===============*/
+.home {
+  position: relative;
+  height: 800px;
+  overflow: hidden;
+}
 
 /*=============== BUTTON ===============*/
 
