@@ -255,6 +255,14 @@ img {
   object-position: center;
 }
 
+.home__shadow {
+  background: linear-gradient(
+    180deg,
+    hsla(0, 0%, 0%, 0) 20%,
+    hsl(0, 0%, 0%) 100%
+  );
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== ABOUT SECTION ===============*/
