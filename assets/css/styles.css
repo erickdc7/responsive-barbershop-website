@@ -263,6 +263,11 @@ img {
   );
 }
 
+.home__container {
+  height: 100%;
+  place-items: center;
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== ABOUT SECTION ===============*/
