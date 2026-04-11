@@ -273,6 +273,12 @@ img {
   text-align: center;
 }
 
+.home__logo {
+  width: 120px;
+  margin-inline: auto;
+  margin-bottom: 1rem;
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== ABOUT SECTION ===============*/
