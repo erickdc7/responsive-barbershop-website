@@ -250,6 +250,11 @@ img {
   height: 100%;
 }
 
+.home__bg {
+  object-fit: cover;
+  object-position: center;
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== ABOUT SECTION ===============*/
