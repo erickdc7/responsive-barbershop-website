@@ -377,6 +377,10 @@ img {
   .home__container {
     grid-template-columns: 665px;
   }
+
+  .home__logo {
+    width: 150px;
+  }
 }
 
 /* For 2K resolutions <> */
