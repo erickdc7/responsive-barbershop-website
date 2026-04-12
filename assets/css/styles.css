@@ -284,6 +284,11 @@ img {
   font-size: var(--biggest-font-size);
 }
 
+.home__description {
+  color: var(--white-color);
+  margin-block: 1rem 3rem;
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== ABOUT SECTION ===============*/
