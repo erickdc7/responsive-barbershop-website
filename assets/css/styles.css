@@ -300,6 +300,10 @@ img {
   transition: background-color 0.4s;
 }
 
+.button:hover {
+  background-color: var(--first-color-alt);
+}
+
 /*=============== ABOUT SECTION ===============*/
 
 /*=============== WORKS SECTION ===============*/
