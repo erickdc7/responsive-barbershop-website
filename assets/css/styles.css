@@ -369,6 +369,10 @@ img {
   .nav__button {
     color: var(--title-color);
   }
+
+  .home {
+    height: 870px;
+  }
 }
 
 /* For 2K resolutions <> */
