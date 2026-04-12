@@ -381,6 +381,10 @@ img {
   .home__logo {
     width: 150px;
   }
+
+  .home__description {
+    margin-bottom: 4rem;
+  }
 }
 
 /* For 2K resolutions <> */
