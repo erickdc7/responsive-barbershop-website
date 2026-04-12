@@ -330,6 +330,12 @@ img {
 /* For small devices <> */
 
 /* For medium devices <> */
+@media (width >= 540px) {
+  .home__container {
+    grid-template-columns: 400px;
+    justify-content: center;
+  }
+}
 
 /* For large devices <> */
 @media (width >= 1150px) {
