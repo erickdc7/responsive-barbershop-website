@@ -373,6 +373,10 @@ img {
   .home {
     height: 870px;
   }
+
+  .home__container {
+    grid-template-columns: 665px;
+  }
 }
 
 /* For 2K resolutions <> */
