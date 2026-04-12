@@ -279,6 +279,11 @@ img {
   margin-bottom: 1rem;
 }
 
+.home__title {
+  color: var(--white-color);
+  font-size: var(--biggest-font-size);
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== ABOUT SECTION ===============*/
