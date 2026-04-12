@@ -231,6 +231,10 @@ img {
 }
 
 /* Change header styles */
+.scroll-header {
+  background-color: var(--body-color);
+  box-shadow: 0 8px 16px hsla(0, 0%, 0%, 0.15);
+}
 
 /* Active link */
 
