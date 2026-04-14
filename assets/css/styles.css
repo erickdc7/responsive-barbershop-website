@@ -378,6 +378,11 @@ img {
     color: var(--title-color);
   }
 
+  /* Change header styles */
+  .scroll-header .nav__link {
+    color: var(--title-color);
+  }
+
   .home {
     height: 870px;
   }
