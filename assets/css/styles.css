@@ -317,6 +317,11 @@ img {
   background-color: var(--brown-color);
 }
 
+.about__container {
+  row-gap: 4rem;
+  padding-bottom: 2.5rem;
+}
+
 /*=============== WORKS SECTION ===============*/
 
 /* Swiper class */
