@@ -322,6 +322,10 @@ img {
   padding-bottom: 2.5rem;
 }
 
+.about .section__title {
+  color: var(--white-color);
+}
+
 /*=============== WORKS SECTION ===============*/
 
 /* Swiper class */
