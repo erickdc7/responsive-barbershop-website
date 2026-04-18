@@ -313,6 +313,9 @@ img {
 }
 
 /*=============== ABOUT SECTION ===============*/
+.about {
+  background-color: var(--brown-color);
+}
 
 /*=============== WORKS SECTION ===============*/
 
