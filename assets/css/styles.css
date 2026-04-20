@@ -332,6 +332,12 @@ img {
   margin-bottom: 3rem;
 }
 
+.about__info {
+  display: flex;
+  justify-content: center;
+  column-gap: 4.5rem;
+}
+
 /*=============== WORKS SECTION ===============*/
 
 /* Swiper class */
