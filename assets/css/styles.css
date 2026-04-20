@@ -440,6 +440,13 @@ img {
   .home__description {
     margin-bottom: 4rem;
   }
+
+  .about__container {
+    grid-template-columns: 500px 480px;
+    align-items: center;
+    column-gap: 8rem;
+    padding-block: 3rem;
+  }
 }
 
 /* For 2K resolutions <> */
