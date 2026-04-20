@@ -349,6 +349,12 @@ img {
   color: var(--white-color);
 }
 
+.about__img {
+  width: 320px;
+  border-radius: 1.5rem;
+  justify-self: center;
+}
+
 /*=============== WORKS SECTION ===============*/
 
 /* Swiper class */
