@@ -447,6 +447,11 @@ img {
     column-gap: 8rem;
     padding-block: 3rem;
   }
+
+  .about__img {
+    width: 500px;
+    order: -1;
+  }
 }
 
 /* For 2K resolutions <> */
