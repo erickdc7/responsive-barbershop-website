@@ -452,6 +452,10 @@ img {
     width: 500px;
     order: -1;
   }
+
+  .about__data .section__title {
+    text-align: initial;
+  }
 }
 
 /* For 2K resolutions <> */
