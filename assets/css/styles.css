@@ -465,6 +465,11 @@ img {
   .about__info {
     justify-content: initial;
   }
+
+  .about__number {
+    font-size: var(--big-font-size);
+    margin-bottom: 1rem;
+  }
 }
 
 /* For 2K resolutions <> */
