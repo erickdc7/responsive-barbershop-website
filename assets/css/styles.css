@@ -470,6 +470,10 @@ img {
     font-size: var(--big-font-size);
     margin-bottom: 1rem;
   }
+
+  .about__subtitle {
+    font-size: var(--h3-font-size);
+  }
 }
 
 /* For 2K resolutions <> */
