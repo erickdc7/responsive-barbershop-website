@@ -461,6 +461,10 @@ img {
     margin-bottom: 4rem;
     text-align: initial;
   }
+
+  .about__info {
+    justify-content: initial;
+  }
 }
 
 /* For 2K resolutions <> */
