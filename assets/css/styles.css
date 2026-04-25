@@ -364,6 +364,10 @@ img {
   row-gap: 4rem;
 }
 
+.work__description {
+  text-align: center;
+}
+
 /* Swiper class */
 
 /*=============== SERVICES SECTION ===============*/
