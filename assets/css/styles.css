@@ -356,6 +356,9 @@ img {
 }
 
 /*=============== WORKS SECTION ===============*/
+.work {
+  background-color: var(--beige-color);
+}
 
 /* Swiper class */
 
