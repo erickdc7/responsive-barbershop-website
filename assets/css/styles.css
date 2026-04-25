@@ -368,6 +368,12 @@ img {
   text-align: center;
 }
 
+.work__img,
+.work__card {
+  width: 250px;
+  border-radius: 1.5rem;
+}
+
 /* Swiper class */
 
 /*=============== SERVICES SECTION ===============*/
