@@ -44,6 +44,10 @@ const swiperWork = new Swiper('.work__swiper', {
     spaceBetween: 24,
     grabCursor: true,
 
+    pagination: {
+        el: '.work__data .swiper-pagination',
+        type: 'fraction',
+    }
 });
 
 /*=============== SWIPER TESTIMONIAL ===============*/
