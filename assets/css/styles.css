@@ -375,6 +375,10 @@ img {
 }
 
 /* Swiper class */
+.work__swiper {
+  width: 100%;
+  border-radius: 1.5rem;
+}
 
 /*=============== SERVICES SECTION ===============*/
 
