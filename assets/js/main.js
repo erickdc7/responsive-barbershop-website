@@ -47,6 +47,11 @@ const swiperWork = new Swiper('.work__swiper', {
     pagination: {
         el: '.work__data .swiper-pagination',
         type: 'fraction',
+    },
+
+    navigation: {
+        nextEl: '.work__data .swiper-button-next',
+        prevEl: '.work__data .swiper-button-prev',
     }
 });
 
