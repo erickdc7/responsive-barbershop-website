@@ -52,7 +52,7 @@ const swiperWork = new Swiper('.work__swiper', {
     navigation: {
         nextEl: '.work__data .swiper-button-next',
         prevEl: '.work__data .swiper-button-prev',
-    }
+    },
 });
 
 /*=============== SWIPER TESTIMONIAL ===============*/
