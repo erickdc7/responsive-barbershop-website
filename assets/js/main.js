@@ -39,7 +39,7 @@ window.addEventListener('scroll', scrollHeader)
 
 /*=============== SWIPER WORKS ===============*/
 const swiper = new Swiper('.swiper', {
-
+    loop: true,
 
 });
 
