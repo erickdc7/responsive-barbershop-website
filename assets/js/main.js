@@ -38,7 +38,7 @@ const scrollHeader = () => {
 window.addEventListener('scroll', scrollHeader)
 
 /*=============== SWIPER WORKS ===============*/
-const swiperWork = new Swiper('.swiper', {
+const swiperWork = new Swiper('.work__swiper', {
     loop: true,
 
 });
