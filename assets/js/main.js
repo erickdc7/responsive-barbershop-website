@@ -41,6 +41,7 @@ window.addEventListener('scroll', scrollHeader)
 const swiperWork = new Swiper('.work__swiper', {
     loop: true,
     slidesPerView: 'auto',
+    spaceBetween: 24,
 
 });
 
