@@ -380,6 +380,10 @@ img {
   border-radius: 1.5rem;
 }
 
+.work__data {
+  padding-bottom: 7rem;
+}
+
 /*=============== SERVICES SECTION ===============*/
 
 /* Swiper class */
