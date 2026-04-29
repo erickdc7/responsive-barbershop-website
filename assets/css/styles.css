@@ -384,6 +384,11 @@ img {
   padding-bottom: 7rem;
 }
 
+.work .swiper-pagination-fraction {
+  font-weight: var(--font-semi-bold);
+  bottom: 3rem;
+}
+
 /*=============== SERVICES SECTION ===============*/
 
 /* Swiper class */
