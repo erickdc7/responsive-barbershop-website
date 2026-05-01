@@ -557,6 +557,11 @@ img {
   .work .swiper-button-prev {
     left: 0;
   }
+
+  .work .swiper-button-next {
+    left: 4.5rem;
+    right: initial;
+  }
 }
 
 /* For 2K resolutions <> */
