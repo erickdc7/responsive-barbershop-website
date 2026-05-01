@@ -547,6 +547,12 @@ img {
     width: initial;
     padding-bottom: 12rem;
   }
+
+  .work__data .section__title,
+  .work__description,
+  .work .swiper-pagination {
+    text-align: initial;
+  }
 }
 
 /* For 2K resolutions <> */
