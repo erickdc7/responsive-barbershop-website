@@ -542,6 +542,11 @@ img {
     column-gap: 5rem;
     padding-top: 4rem;
   }
+
+  .work__data {
+    width: initial;
+    padding-bottom: 12rem;
+  }
 }
 
 /* For 2K resolutions <> */
