@@ -408,6 +408,10 @@ img {
   left: calc(50% - 3rem);
 }
 
+.work .swiper-button-next {
+  right: calc(50% - 3rem);
+}
+
 /*=============== SERVICES SECTION ===============*/
 
 /* Swiper class */
