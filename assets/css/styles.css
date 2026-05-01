@@ -562,6 +562,11 @@ img {
     left: 4.5rem;
     right: initial;
   }
+
+  .work__img,
+  .work__card {
+    width: 320px;
+  }
 }
 
 /* For 2K resolutions <> */
