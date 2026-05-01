@@ -389,6 +389,10 @@ img {
   bottom: 3rem;
 }
 
+.work .swiper-navigation-icon {
+  display: none;
+}
+
 /*=============== SERVICES SECTION ===============*/
 
 /* Swiper class */
