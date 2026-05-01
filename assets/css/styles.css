@@ -532,6 +532,10 @@ img {
   .about__subtitle {
     font-size: var(--h3-font-size);
   }
+
+  .work {
+    padding-bottom: 2rem;
+  }
 }
 
 /* For 2K resolutions <> */
