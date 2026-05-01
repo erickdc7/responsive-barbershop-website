@@ -404,6 +404,10 @@ img {
   font-size: 1.5rem;
 }
 
+.work .swiper-button-prev {
+  left: calc(50% - 3rem);
+}
+
 /*=============== SERVICES SECTION ===============*/
 
 /* Swiper class */
