@@ -536,6 +536,12 @@ img {
   .work {
     padding-bottom: 2rem;
   }
+
+  .work__container {
+    grid-template-columns: 300px 740px;
+    column-gap: 5rem;
+    padding-top: 4rem;
+  }
 }
 
 /* For 2K resolutions <> */
