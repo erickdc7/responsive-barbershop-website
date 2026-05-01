@@ -438,6 +438,11 @@ img {
     grid-template-columns: 400px;
     justify-content: center;
   }
+
+  .work__data {
+    width: 400px;
+    margin-inline: auto;
+  }
 }
 
 /* For large devices <> */
