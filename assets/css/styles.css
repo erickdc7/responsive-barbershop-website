@@ -553,6 +553,10 @@ img {
   .work .swiper-pagination {
     text-align: initial;
   }
+
+  .work .swiper-button-prev {
+    left: 0;
+  }
 }
 
 /* For 2K resolutions <> */
