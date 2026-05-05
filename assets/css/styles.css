@@ -413,6 +413,9 @@ img {
 }
 
 /*=============== SERVICES SECTION ===============*/
+.service {
+  background-color: var(--beige-color);
+}
 
 /* Swiper class */
 
