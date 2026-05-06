@@ -481,6 +481,16 @@ img {
   column-gap: 0.25rem;
 }
 
+.service .swiper-pagination-bullet {
+  width: 24px;
+  height: 3px;
+  border-radius: 0.5rem;
+  background-color: var(--title-color);
+  transition:
+    opacity 0.4s,
+    width 0.4s;
+}
+
 /*=============== EXPERTS SECTION ===============*/
 
 /*=============== CONTACT SECTION ===============*/
