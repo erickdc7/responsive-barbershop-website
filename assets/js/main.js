@@ -63,13 +63,13 @@ const swiperTestimonial = new Swiper('.service__swiper', {
     grabCursor: true,
 
     pagination: {
-        el: '.work__data .swiper-pagination',
+        el: '.service__swiper .swiper-pagination',
         type: 'fraction',
     },
 
     navigation: {
-        nextEl: '.work__data .swiper-button-next',
-        prevEl: '.work__data .swiper-button-prev',
+        nextEl: '.service__swiper .swiper-button-next',
+        prevEl: '.service__swiper .swiper-button-prev',
     },
 });
 
