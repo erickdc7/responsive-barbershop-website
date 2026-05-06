@@ -64,7 +64,6 @@ const swiperTestimonial = new Swiper('.service__swiper', {
 
     pagination: {
         el: '.service__swiper .swiper-pagination',
-        type: 'fraction',
     },
 
     navigation: {
