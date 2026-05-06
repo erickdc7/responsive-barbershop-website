@@ -417,6 +417,11 @@ img {
   background-color: var(--beige-color);
 }
 
+.service__container {
+  row-gap: 4rem;
+  padding-bottom: 2.5rem;
+}
+
 /* Swiper class */
 
 /*=============== EXPERTS SECTION ===============*/
