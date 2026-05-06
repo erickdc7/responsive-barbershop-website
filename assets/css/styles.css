@@ -451,6 +451,12 @@ img {
   font: var(--font-medium) var(--h3-font-size) var(--second-font);
 }
 
+.service__swiper {
+  background-color: var(--first-color);
+  border-radius: 1.5rem;
+  padding: 2rem 1rem;
+}
+
 /* Swiper class */
 
 /*=============== EXPERTS SECTION ===============*/
