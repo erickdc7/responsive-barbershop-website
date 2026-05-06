@@ -491,6 +491,10 @@ img {
     width 0.4s;
 }
 
+.service .swiper-pagination-bullet-active {
+  width: 32px;
+}
+
 /*=============== EXPERTS SECTION ===============*/
 
 /*=============== CONTACT SECTION ===============*/
