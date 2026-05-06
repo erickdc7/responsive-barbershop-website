@@ -56,7 +56,7 @@ const swiperWork = new Swiper('.work__swiper', {
 });
 
 /*=============== SWIPER TESTIMONIAL ===============*/
-const swiperTestimonial = new Swiper('.work__swiper', {
+const swiperTestimonial = new Swiper('.service__swiper', {
     loop: true,
     slidesPerView: 'auto',
     spaceBetween: 24,
