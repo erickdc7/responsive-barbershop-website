@@ -457,6 +457,10 @@ img {
   padding: 2rem 1rem;
 }
 
+.service__testimonial-description {
+  margin-bottom: 6rem;
+}
+
 /* Swiper class */
 
 /*=============== EXPERTS SECTION ===============*/
