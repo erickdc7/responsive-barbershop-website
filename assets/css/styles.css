@@ -470,6 +470,17 @@ img {
   width: 100%;
 }
 
+.service .swiper-pagination-bullets {
+  position: absolute;
+  top: initial;
+  left: 0;
+  right: 0;
+  bottom: 6rem;
+  display: flex;
+  justify-content: center;
+  column-gap: 0.25rem;
+}
+
 /*=============== EXPERTS SECTION ===============*/
 
 /*=============== CONTACT SECTION ===============*/
