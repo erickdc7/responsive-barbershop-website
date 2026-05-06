@@ -431,6 +431,13 @@ img {
   row-gap: 1rem;
 }
 
+.service__plan {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid var(--beige-color-alt);
+}
+
 /* Swiper class */
 
 /*=============== EXPERTS SECTION ===============*/
