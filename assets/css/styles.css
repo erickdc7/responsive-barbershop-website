@@ -438,6 +438,10 @@ img {
   border-bottom: 1px solid var(--beige-color-alt);
 }
 
+.service__plan:last-child {
+  border-bottom: none;
+}
+
 /* Swiper class */
 
 /*=============== EXPERTS SECTION ===============*/
