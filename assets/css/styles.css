@@ -466,6 +466,9 @@ img {
 }
 
 /* Swiper class */
+.service__swiper {
+  width: 100%;
+}
 
 /*=============== EXPERTS SECTION ===============*/
 
