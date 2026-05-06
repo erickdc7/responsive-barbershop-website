@@ -461,6 +461,10 @@ img {
   margin-bottom: 6rem;
 }
 
+.service__testimonial-name {
+  font-size: var(--normal-font-size);
+}
+
 /* Swiper class */
 
 /*=============== EXPERTS SECTION ===============*/
