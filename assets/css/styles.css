@@ -442,6 +442,11 @@ img {
   border-bottom: none;
 }
 
+.service__name {
+  font-size: var(--h3-font-size);
+  font-weight: var(--font-medium);
+}
+
 /* Swiper class */
 
 /*=============== EXPERTS SECTION ===============*/
