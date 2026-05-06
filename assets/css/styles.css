@@ -422,6 +422,10 @@ img {
   padding-bottom: 2.5rem;
 }
 
+.service .section__title {
+  margin-bottom: 3rem;
+}
+
 /* Swiper class */
 
 /*=============== EXPERTS SECTION ===============*/
