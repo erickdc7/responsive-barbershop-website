@@ -447,6 +447,10 @@ img {
   font-weight: var(--font-medium);
 }
 
+.service__price {
+  font: var(--font-medium) var(--h3-font-size) var(--second-font);
+}
+
 /* Swiper class */
 
 /*=============== EXPERTS SECTION ===============*/
