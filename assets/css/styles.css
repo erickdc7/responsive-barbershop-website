@@ -426,6 +426,11 @@ img {
   margin-bottom: 3rem;
 }
 
+.service__prices {
+  display: grid;
+  row-gap: 1rem;
+}
+
 /* Swiper class */
 
 /*=============== EXPERTS SECTION ===============*/
