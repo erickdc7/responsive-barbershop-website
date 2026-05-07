@@ -516,6 +516,10 @@ img {
   right: 3.5rem;
 }
 
+.service .swiper-button-next {
+  right: 1rem;
+}
+
 /*=============== EXPERTS SECTION ===============*/
 
 /*=============== CONTACT SECTION ===============*/
