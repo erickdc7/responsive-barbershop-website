@@ -499,6 +499,19 @@ img {
   display: none;
 }
 
+.service :is(.swiper-button-prev, .swiper-button-next) {
+  width: 24px;
+  height: 24px;
+  border: 2px solid var(--title-color);
+  border-radius: 50%;
+  color: var(--title-color);
+  font-size: 1rem;
+  top: initial;
+  left: initial;
+  bottom: 2rem;
+  margin: initial;
+}
+
 /*=============== EXPERTS SECTION ===============*/
 
 /*=============== CONTACT SECTION ===============*/
