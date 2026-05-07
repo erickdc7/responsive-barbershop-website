@@ -512,6 +512,10 @@ img {
   margin: initial;
 }
 
+.service .swiper-button-prev {
+  right: 3.5rem;
+}
+
 /*=============== EXPERTS SECTION ===============*/
 
 /*=============== CONTACT SECTION ===============*/
