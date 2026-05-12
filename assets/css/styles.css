@@ -672,6 +672,13 @@ img {
   .work__card {
     width: 320px;
   }
+
+  .service__container {
+    grid-template-columns: repeat(2, 450px);
+    align-items: center;
+    column-gap: 12rem;
+    padding-top: 4rem;
+  }
 }
 
 /* For 2K resolutions <> */
