@@ -679,6 +679,11 @@ img {
     column-gap: 12rem;
     padding-top: 4rem;
   }
+
+  .service__swiper {
+    order: -1;
+    padding: 3rem;
+  }
 }
 
 /* For 2K resolutions <> */
