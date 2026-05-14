@@ -710,6 +710,10 @@ img {
   .service__data .section__title {
     text-align: initial;
   }
+
+  .service__prices {
+    row-gap: 1.5rem;
+  }
 }
 
 /* For 2K resolutions <> */
