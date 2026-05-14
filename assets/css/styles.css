@@ -692,6 +692,10 @@ img {
   .service__testimonial-name {
     font-size: var(--h3-font-size);
   }
+
+  .service .swiper-pagination-bullets {
+    bottom: 10rem;
+  }
 }
 
 /* For 2K resolutions <> */
