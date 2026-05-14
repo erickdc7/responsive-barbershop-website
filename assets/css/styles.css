@@ -696,6 +696,11 @@ img {
   .service .swiper-pagination-bullets {
     bottom: 10rem;
   }
+
+  .service .swiper-button-prev {
+    right: 5.5rem;
+    bottom: 3rem;
+  }
 }
 
 /* For 2K resolutions <> */
