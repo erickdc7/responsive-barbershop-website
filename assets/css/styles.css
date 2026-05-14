@@ -701,6 +701,11 @@ img {
     right: 5.5rem;
     bottom: 3rem;
   }
+
+  .service .swiper-button-next {
+    right: 3rem;
+    bottom: 3rem;
+  }
 }
 
 /* For 2K resolutions <> */
