@@ -688,6 +688,10 @@ img {
   .service__testimonial-description {
     margin-bottom: 9rem;
   }
+
+  .service__testimonial-name {
+    font-size: var(--h3-font-size);
+  }
 }
 
 /* For 2K resolutions <> */
