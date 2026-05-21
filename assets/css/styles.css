@@ -525,6 +525,10 @@ img {
   row-gap: 4rem;
 }
 
+.expert__description {
+  text-align: center;
+}
+
 /*=============== CONTACT SECTION ===============*/
 
 /*=============== FOOTER ===============*/
