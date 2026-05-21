@@ -521,6 +521,9 @@ img {
 }
 
 /*=============== EXPERTS SECTION ===============*/
+.expert__container {
+  row-gap: 4rem;
+}
 
 /*=============== CONTACT SECTION ===============*/
 
