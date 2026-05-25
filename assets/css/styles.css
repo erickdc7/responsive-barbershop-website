@@ -600,6 +600,10 @@ img {
     flex-direction: column;
     padding: 1rem 3rem 0 3rem;
   }
+
+  .expert__img {
+    order: 1;
+  }
 }
 
 /* For medium devices <> */
