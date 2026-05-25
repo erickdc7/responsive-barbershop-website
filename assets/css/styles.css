@@ -529,6 +529,12 @@ img {
   text-align: center;
 }
 
+.expert__content {
+  display: grid;
+  justify-content: center;
+  gap: 1.5rem;
+}
+
 /*=============== CONTACT SECTION ===============*/
 
 /*=============== FOOTER ===============*/
