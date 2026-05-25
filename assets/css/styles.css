@@ -569,6 +569,12 @@ img {
   column-gap: 0.5rem;
 }
 
+.expert__link {
+  font-size: 1.25rem;
+  color: var(--text-color);
+  transition: color 0.4s;
+}
+
 /*=============== CONTACT SECTION ===============*/
 
 /*=============== FOOTER ===============*/
