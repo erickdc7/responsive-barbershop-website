@@ -579,6 +579,10 @@ img {
   color: var(--title-color);
 }
 
+.expert__card:hover .expert__img {
+  scale: 1.1;
+}
+
 /*=============== CONTACT SECTION ===============*/
 
 /*=============== FOOTER ===============*/
