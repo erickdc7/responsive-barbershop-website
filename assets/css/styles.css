@@ -564,6 +564,11 @@ img {
   color: var(--text-color);
 }
 
+.expert__social {
+  display: flex;
+  column-gap: 0.5rem;
+}
+
 /*=============== CONTACT SECTION ===============*/
 
 /*=============== FOOTER ===============*/
