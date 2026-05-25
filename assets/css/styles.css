@@ -559,6 +559,11 @@ img {
   font-size: var(--h2-font-size);
 }
 
+.expert__profession {
+  font-size: var(--smaller-font-size);
+  color: var(--text-color);
+}
+
 /*=============== CONTACT SECTION ===============*/
 
 /*=============== FOOTER ===============*/
