@@ -550,6 +550,11 @@ img {
   gap: 1.5rem;
 }
 
+.expert__data {
+  display: grid;
+  row-gap: 1.5rem;
+}
+
 /*=============== CONTACT SECTION ===============*/
 
 /*=============== FOOTER ===============*/
