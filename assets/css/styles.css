@@ -555,6 +555,10 @@ img {
   row-gap: 1.5rem;
 }
 
+.expert__name {
+  font-size: var(--h2-font-size);
+}
+
 /*=============== CONTACT SECTION ===============*/
 
 /*=============== FOOTER ===============*/
