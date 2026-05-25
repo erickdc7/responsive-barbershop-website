@@ -535,6 +535,12 @@ img {
   gap: 1.5rem;
 }
 
+.expert__img {
+  width: 120px;
+  transition: scale 0.4s;
+  transform-origin: left bottom;
+}
+
 /*=============== CONTACT SECTION ===============*/
 
 /*=============== FOOTER ===============*/
