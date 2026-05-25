@@ -595,6 +595,12 @@ img {
 
 /*=============== BREAKPOINTS ===============*/
 /* For small devices <> */
+@media (width<= 350px) {
+  .expert__card {
+    flex-direction: column;
+    padding: 1rem 3rem 0 3rem;
+  }
+}
 
 /* For medium devices <> */
 @media (width >= 540px) {
