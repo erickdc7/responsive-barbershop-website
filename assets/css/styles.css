@@ -541,6 +541,15 @@ img {
   transform-origin: left bottom;
 }
 
+.expert__card {
+  background-color: var(--beige-color-light);
+  padding: 0.5rem 2rem 0 2rem;
+  border-radius: 1.5rem;
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
 /*=============== CONTACT SECTION ===============*/
 
 /*=============== FOOTER ===============*/
