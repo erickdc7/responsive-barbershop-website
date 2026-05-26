@@ -608,6 +608,10 @@ img {
   .expert__info {
     text-align: center;
   }
+
+  .expert__social {
+    justify-content: center;
+  }
 }
 
 /* For medium devices <> */
