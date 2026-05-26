@@ -604,6 +604,10 @@ img {
   .expert__img {
     order: 1;
   }
+
+  .expert__info {
+    text-align: center;
+  }
 }
 
 /* For medium devices <> */
