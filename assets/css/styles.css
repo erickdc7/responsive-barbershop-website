@@ -618,7 +618,8 @@ img {
 @media (width >= 540px) {
   .home__container,
   .about__container,
-  .service__container {
+  .service__container,
+  .expert__container {
     grid-template-columns: 400px;
     justify-content: center;
   }
