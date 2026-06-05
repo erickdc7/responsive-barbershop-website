@@ -630,6 +630,12 @@ img {
   }
 }
 
+@media (width >= 768px) {
+  .expert__content {
+    grid-template-columns: repeat(2, max-content);
+  }
+}
+
 /* For large devices <> */
 @media (width >= 1150px) {
   .container {
