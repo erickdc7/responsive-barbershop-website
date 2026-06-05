@@ -800,6 +800,10 @@ img {
   .service__prices {
     row-gap: 1.5rem;
   }
+
+  .expert {
+    padding-bottom: 2rem;
+  }
 }
 
 /* For 2K resolutions <> */
