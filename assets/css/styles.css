@@ -804,6 +804,11 @@ img {
   .expert {
     padding-bottom: 2rem;
   }
+
+  .expert__container {
+    grid-template-columns: initial;
+    row-gap: 5rem;
+  }
 }
 
 /* For 2K resolutions <> */
