@@ -814,6 +814,10 @@ img {
     width: 550px;
     margin-inline: auto;
   }
+
+  .expert__content {
+    grid-template-columns: repeat(4, 262px);
+  }
 }
 
 /* For 2K resolutions <> */
