@@ -809,6 +809,11 @@ img {
     grid-template-columns: initial;
     row-gap: 5rem;
   }
+
+  .expert__description {
+    width: 550px;
+    margin-inline: auto;
+  }
 }
 
 /* For 2K resolutions <> */
