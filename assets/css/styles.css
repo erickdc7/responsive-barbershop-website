@@ -818,6 +818,11 @@ img {
   .expert__content {
     grid-template-columns: repeat(4, 262px);
   }
+
+  .expert__card {
+    padding: 1.5rem 1.5rem 0;
+    flex-direction: column;
+  }
 }
 
 /* For 2K resolutions <> */
