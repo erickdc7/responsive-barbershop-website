@@ -823,6 +823,11 @@ img {
     padding: 1.5rem 1.5rem 0;
     flex-direction: column;
   }
+
+  .expert__img {
+    order: 1;
+    width: 200px;
+  }
 }
 
 /* For 2K resolutions <> */
