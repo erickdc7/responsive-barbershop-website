@@ -584,6 +584,10 @@ img {
 }
 
 /*=============== CONTACT SECTION ===============*/
+.contact__container {
+  row-gap: 4rem;
+  padding-bottom: 3rem;
+}
 
 /*=============== FOOTER ===============*/
 
