@@ -628,6 +628,18 @@ img {
   padding-bottom: 0;
 }
 
+.contact__icon {
+  width: 64px;
+  height: 64px;
+  background-color: var(--title-color);
+  border-radius: 0.75rem;
+  color: var(--white-color);
+  font-size: 2.5rem;
+  flex: 0 0 auto;
+  display: grid;
+  place-items: center;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
