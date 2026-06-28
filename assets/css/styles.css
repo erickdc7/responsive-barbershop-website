@@ -602,6 +602,10 @@ img {
   overflow: hidden;
 }
 
+.contact__data {
+  text-align: center;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
