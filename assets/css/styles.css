@@ -653,6 +653,11 @@ img {
   font-style: initial;
 }
 
+.contact__address :is(span, a) {
+  display: block;
+  color: var(--title-color);
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
