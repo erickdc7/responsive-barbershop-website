@@ -685,6 +685,10 @@ img {
   .expert__social {
     justify-content: center;
   }
+
+  .contact__map {
+    width: 100%;
+  }
 }
 
 /* For medium devices <> */
