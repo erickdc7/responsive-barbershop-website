@@ -615,6 +615,14 @@ img {
   row-gap: 3rem;
 }
 
+.contact__card {
+  display: flex;
+  align-items: center;
+  column-gap: 1.5rem;
+  padding-bottom: 3rem;
+  border-bottom: 1px solid var(--border-color);
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
