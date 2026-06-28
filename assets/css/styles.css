@@ -606,6 +606,10 @@ img {
   text-align: center;
 }
 
+.contact__description {
+  margin-bottom: 2.5rem;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
