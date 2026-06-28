@@ -623,6 +623,11 @@ img {
   border-bottom: 1px solid var(--border-color);
 }
 
+.contact__card:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
