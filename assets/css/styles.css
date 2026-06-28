@@ -645,6 +645,10 @@ img {
   row-gap: 0.5rem;
 }
 
+.contact__title {
+  font-size: var(--h2-font-size);
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
