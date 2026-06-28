@@ -594,6 +594,14 @@ img {
   height: 100%;
 }
 
+.contact__map {
+  width: 320px;
+  height: 445px;
+  justify-self: center;
+  border-radius: 1.5rem;
+  overflow: hidden;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
