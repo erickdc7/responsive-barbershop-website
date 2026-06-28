@@ -610,6 +610,11 @@ img {
   margin-bottom: 2.5rem;
 }
 
+.contact__content {
+  display: grid;
+  row-gap: 3rem;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
