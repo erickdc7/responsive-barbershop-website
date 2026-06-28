@@ -649,6 +649,10 @@ img {
   font-size: var(--h2-font-size);
 }
 
+.contact__address {
+  font-style: initial;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
