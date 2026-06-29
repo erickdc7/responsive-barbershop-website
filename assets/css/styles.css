@@ -921,6 +921,13 @@ img {
     flex-direction: column;
     justify-self: flex-end;
   }
+
+  .contact__container {
+    grid-template-columns: 355px 320px 355px;
+    column-gap: 2.5rem;
+    align-items: center;
+    padding-top: 4rem;
+  }
 }
 
 /* For 2K resolutions <> */
