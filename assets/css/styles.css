@@ -937,6 +937,10 @@ img {
   .contact__description {
     margin-bottom: 7rem;
   }
+
+  .contact__title {
+    font-size: var(--h3-font-size);
+  }
 }
 
 /* For 2K resolutions <> */
