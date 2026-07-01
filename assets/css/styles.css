@@ -933,6 +933,10 @@ img {
   .contact__data .section__title {
     text-align: initial;
   }
+
+  .contact__description {
+    margin-bottom: 7rem;
+  }
 }
 
 /* For 2K resolutions <> */
