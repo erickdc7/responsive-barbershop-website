@@ -676,6 +676,10 @@ img {
   margin-block: 1rem 0.5rem;
 }
 
+.footer__email {
+  font-style: initial;
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
