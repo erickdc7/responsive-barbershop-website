@@ -680,6 +680,10 @@ img {
   font-style: initial;
 }
 
+.footer__email a {
+  color: var(--title-color);
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
