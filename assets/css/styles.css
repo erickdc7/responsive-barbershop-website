@@ -667,6 +667,11 @@ img {
   row-gap: 4rem;
 }
 
+.footer__logo {
+  font: var(--font-bold) var(--h2-font-size) var(--second-font);
+  color: var(--title-color);
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
