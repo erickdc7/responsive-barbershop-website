@@ -684,6 +684,12 @@ img {
   color: var(--title-color);
 }
 
+.footer__content {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 4rem 2.5rem;
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
