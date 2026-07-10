@@ -700,6 +700,11 @@ img {
   row-gap: 0.5rem;
 }
 
+.footer__link {
+  color: var(--text-color);
+  transition: color 0.4s;
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
