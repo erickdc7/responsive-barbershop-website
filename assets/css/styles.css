@@ -695,6 +695,11 @@ img {
   margin-bottom: 1rem;
 }
 
+.footer__links {
+  display: grid;
+  row-gap: 0.5rem;
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
