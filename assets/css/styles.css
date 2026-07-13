@@ -1031,6 +1031,10 @@ img {
   .footer__logo {
     font-size: var(--h3-font-size);
   }
+
+  .footer__description {
+    margin-top: 1.5rem;
+  }
 }
 
 /* For 2K resolutions <> */
