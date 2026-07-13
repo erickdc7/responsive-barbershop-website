@@ -1035,6 +1035,10 @@ img {
   .footer__description {
     margin-top: 1.5rem;
   }
+
+  .footer__content {
+    column-gap: 10rem;
+  }
 }
 
 /* For 2K resolutions <> */
