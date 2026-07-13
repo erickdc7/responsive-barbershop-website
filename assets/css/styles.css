@@ -709,6 +709,11 @@ img {
   color: var(--title-color);
 }
 
+.footer__social {
+  display: flex;
+  column-gap: 0.75rem;
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
