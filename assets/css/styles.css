@@ -788,6 +788,11 @@ img {
   .expert__content {
     grid-template-columns: repeat(2, max-content);
   }
+
+  .footer__content {
+    grid-template-columns: repeat(3, max-content);
+    justify-content: space-between;
+  }
 }
 
 /* For large devices <> */
