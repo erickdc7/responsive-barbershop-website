@@ -1022,6 +1022,11 @@ img {
   .contact__title {
     font-size: var(--h3-font-size);
   }
+
+  .footer__container {
+    grid-template-columns: repeat(2, max-content);
+    justify-content: space-between;
+  }
 }
 
 /* For 2K resolutions <> */
