@@ -1027,6 +1027,10 @@ img {
     grid-template-columns: repeat(2, max-content);
     justify-content: space-between;
   }
+
+  .footer__logo {
+    font-size: var(--h3-font-size);
+  }
 }
 
 /* For 2K resolutions <> */
