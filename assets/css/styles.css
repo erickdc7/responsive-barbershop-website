@@ -766,6 +766,10 @@ img {
     transform 0.4s;
 }
 
+.scrollup:hover {
+  transform: translateY(-0.5rem);
+}
+
 /* Show Scroll Up */
 
 /*=============== BREAKPOINTS ===============*/
