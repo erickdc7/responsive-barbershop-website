@@ -743,6 +743,11 @@ img {
   background-color: hsl(0, 0%, 60%);
 }
 
+::-webkit-scrollbar-thumb:hover {
+  width: 0.6rem;
+  background-color: hsl(0, 0%, 70%);
+}
+
 /*=============== SCROLL UP ===============*/
 
 /* Show Scroll Up */
