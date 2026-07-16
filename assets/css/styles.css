@@ -245,6 +245,10 @@ img {
   color: var(--first-color);
 }
 
+.active-link.nav__button {
+  color: var(--title-color);
+}
+
 /*=============== HOME SECTION ===============*/
 .home {
   position: relative;
