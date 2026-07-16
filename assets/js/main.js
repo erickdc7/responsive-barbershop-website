@@ -73,7 +73,14 @@ const swiperTestimonial = new Swiper('.service__swiper', {
 });
 
 /*=============== SHOW SCROLL UP ===============*/
-
+const scrollUp = () => {
+    const scrollUp = document.getElementById('scroll-up')
+    // Add the .scroll-header class if the bottom scroll of the viewport is greater than 350
+    this.scrollY >= 350
+        ? scrollUp.classList.add('show-scroll')
+        : scrollUp.classList.remove('show-scroll')
+}
+window.addEventListener('scroll', scrollUp)
 
 /*=============== SCROLL SECTIONS ACTIVE LINK ===============*/
 
