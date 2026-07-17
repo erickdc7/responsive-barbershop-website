@@ -108,6 +108,7 @@ window.addEventListener('scroll', scrollActive)
 const reveal = (selector, options = {}) => {
     gsap.from(selector, {
         scrollTrigger: selector,
+        opacity: 0,
         
     })
 }
