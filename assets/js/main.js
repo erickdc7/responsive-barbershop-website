@@ -112,7 +112,7 @@ const reveal = (selector, options = {}) => {
         duration: 1,
         y: 100,
         delay: .3,
-        ease: "power2.out",
+        ease: 'power2.out',
         ...options
     })
 }
@@ -120,7 +120,7 @@ const reveal = (selector, options = {}) => {
 /* Home animation */
 const tl = gsap.timeline({})
 tl.fromTo(
-    ".home__bg, .home__shadow",
+    '.home__bg, .home__shadow',
     {
         y: -800,
         scale: .3,
@@ -130,7 +130,22 @@ tl.fromTo(
         y: 0,
         scale: .3,
         duration: 1,
-        ease: "power3.out"
+        ease: 'power3.out'
+    }
+)
+tl.to(
+    '.home__bg, .home__shadow',
+    {
+        scale: 1,
+        duration: 1,
+        ease: 'back.out(0.5)'
+    },
+    {
+        y: 0,
+        scale: .3,
+        opacity: 1,
+        duration: 1,
+        ease: 'power3.out'
     }
 )
 
