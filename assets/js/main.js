@@ -139,13 +139,6 @@ tl.to(
         scale: 1,
         duration: 1,
         ease: 'back.out(0.5)'
-    },
-    {
-        y: 0,
-        scale: .3,
-        opacity: 1,
-        duration: 1,
-        ease: 'power3.out'
     }
 )
 
