@@ -883,6 +883,10 @@ img {
     color: var(--title-color);
   }
 
+  .scroll-header .active-link {
+    color: var(--first-color);
+  }
+
   .home {
     height: 870px;
   }
