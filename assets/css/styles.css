@@ -872,6 +872,8 @@ img {
     color: var(--title-color);
   }
 
+  /* Active Link */
+
   /* Change header styles */
   .scroll-header .nav__link {
     color: var(--title-color);
