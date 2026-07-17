@@ -121,7 +121,11 @@ const reveal = (selector, options = {}) => {
 const tl = gsap.timeline({})
 tl.fromTo(
     ".home__bg, .home__shadow",
-
+    {
+        y: -800,
+        scale: .3,
+        opacity: 0
+    }
 )
 
 /* Home background animation */
