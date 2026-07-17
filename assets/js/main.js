@@ -105,7 +105,11 @@ const scrollActive = () => {
 window.addEventListener('scroll', scrollActive)
 
 /*=============== GSAP ANIMATION ===============*/
+const reveal = (selector, options = {}) => {
+    gsap.from(selector, {
 
+    })
+}
 
 /* Home animation */
 
