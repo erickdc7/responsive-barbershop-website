@@ -1109,3 +1109,8 @@ img {
 }
 
 /* For 2K resolutions <> */
+@media (width >= 2048px) {
+  body {
+    zoom: 1.2;
+  }
+}
