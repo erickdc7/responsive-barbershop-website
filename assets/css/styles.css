@@ -1102,6 +1102,10 @@ img {
   .footer__title {
     margin-bottom: 1.5rem;
   }
+
+  .scrollup {
+    right: 3rem;
+  }
 }
 
 /* For 2K resolutions <> */
