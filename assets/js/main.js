@@ -27,6 +27,11 @@ const linkAction = () => {
 }
 navLink.forEach(n => n.addEventListener('click', linkAction))
 
+/*=============== GSAP PLUGIN ===============*/
+if (window.gsap && window.ScrollTrigger) {
+    gsap.registerPlugin(ScrollTrigger)
+}
+
 /*=============== CHANGE HEADER STYLES ===============*/
 const scrollHeader = () => {
     const header = document.getElementById('header')
@@ -129,6 +134,7 @@ tl.fromTo(
     {
         y: 0,
         scale: .3,
+        opacity: 1,
         duration: 1,
         ease: 'power3.out'
     }

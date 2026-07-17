@@ -268,9 +268,11 @@ img {
 .home__bg {
   object-fit: cover;
   object-position: center;
+  z-index: 0;
 }
 
 .home__shadow {
+  z-index: 1;
   background: linear-gradient(
     180deg,
     hsla(0, 0%, 0%, 0) 20%,
