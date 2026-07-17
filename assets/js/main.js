@@ -110,6 +110,8 @@ const reveal = (selector, options = {}) => {
         scrollTrigger: selector,
         opacity: 0,
         duration: 1,
+        y: 100,
+        delay: .3,
         
     })
 }
