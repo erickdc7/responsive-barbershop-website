@@ -878,7 +878,8 @@ img {
   }
 
   /* Change header styles */
-  .scroll-header .nav__link {
+  .scroll-header .nav__link,
+  .scroll-header .active-link.nav__button {
     color: var(--title-color);
   }
 
