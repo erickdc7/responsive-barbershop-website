@@ -125,6 +125,12 @@ tl.fromTo(
         y: -800,
         scale: .3,
         opacity: 0
+    },
+    {
+        y: 0,
+        scale: .3,
+        duration: 1,
+        ease: "power3.out"
     }
 )
 
