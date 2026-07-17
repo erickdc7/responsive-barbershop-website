@@ -109,6 +109,7 @@ const reveal = (selector, options = {}) => {
     gsap.from(selector, {
         scrollTrigger: selector,
         opacity: 0,
+        duration: 1,
         
     })
 }
