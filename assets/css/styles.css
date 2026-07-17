@@ -873,6 +873,9 @@ img {
   }
 
   /* Active Link */
+  .active-link {
+    color: var(--first-color);
+  }
 
   /* Change header styles */
   .scroll-header .nav__link {
