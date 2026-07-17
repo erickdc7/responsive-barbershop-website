@@ -112,6 +112,7 @@ const reveal = (selector, options = {}) => {
         duration: 1,
         y: 100,
         delay: .3,
+        ease: "power2.out",
         
     })
 }
