@@ -143,7 +143,17 @@ tl.to(
 )
 
 /* Home background animation */
-
+tl.to(
+    '.home__bg',
+    {
+        scale: 1.08,
+        duration: 8,
+        ease: 'power1.inOut',
+        repeat: -1,
+        yoyo: true,
+        transformOrigin: 'center center'
+    }
+)
 
 /* The nav animation only works in the home section */
 
