@@ -883,7 +883,8 @@ img {
     color: var(--title-color);
   }
 
-  .scroll-header .active-link {
+  .scroll-header .active-link,
+  .scroll-header .nav__link:hover {
     color: var(--first-color);
   }
 
