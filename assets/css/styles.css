@@ -888,6 +888,10 @@ img {
     color: var(--first-color);
   }
 
+  .scroll-header .nav__button:hover {
+    color: var(--title-color);
+  }
+
   .home {
     height: 870px;
   }
