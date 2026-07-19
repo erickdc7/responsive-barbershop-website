@@ -163,6 +163,7 @@ tl.to(
 
 reveal('.home__logo', { y: 0, scale: .3, delay: 1.9, ease: 'elastic.out(0.8,0.5)' })
 reveal('.home__title', { delay: 2.2 })
+reveal('.home__description', { delay: 2.5 })
 
 /* The nav animation only works in the home section */
 
