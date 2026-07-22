@@ -177,6 +177,9 @@ if (window.scrollY < 100) {
 reveal('.about__data > *', { stagger: .2 })
 reveal('.about__img', { delay: .9 })
 
+const aboutCounter = document.querySelectorAll('.about__counter')
+
+
 /* Work animation */
 
 
