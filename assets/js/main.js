@@ -174,7 +174,7 @@ if (window.scrollY < 100) {
 }
 
 /* About animation */
-
+reveal('.about__data > *', { stagger: .2 })
 
 /* Work animation */
 
