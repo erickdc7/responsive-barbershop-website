@@ -178,7 +178,15 @@ reveal('.about__data > *', { stagger: .2 })
 reveal('.about__img', { delay: .9 })
 
 const aboutCounter = document.querySelectorAll('.about__counter')
-
+aboutCounter.forEach(el => {
+    gsap.from(el, {
+        textContent: 0,
+        duration: 3,
+        ease: 'power1.out',
+        snap: { textContent: 1 },
+        scrollTrigger: { trigger: el, once: true }
+    })
+})
 
 /* Work animation */
 
