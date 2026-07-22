@@ -189,7 +189,7 @@ aboutCounter.forEach(el => {
 })
 
 /* Work animation */
-
+reveal('.work__data .section__title', {})
 
 /* Service animation */
 
