@@ -196,7 +196,7 @@ reveal('.work__data :is(.swiper-button-prev, .swiper-button-next)', { delay: 1.2
 reveal('.work__swiper', { delay: .9 })
 
 /* Service animation */
-
+reveal('.service__data .section__title', {})
 
 /* Expert animation */
 
