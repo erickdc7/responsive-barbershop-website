@@ -191,6 +191,7 @@ aboutCounter.forEach(el => {
 /* Work animation */
 reveal('.work__data .section__title', {})
 reveal('.work__description', { delay: .6 })
+reveal('.work__data .swiper-pagination', { delay: .9 })
 
 /* Service animation */
 
