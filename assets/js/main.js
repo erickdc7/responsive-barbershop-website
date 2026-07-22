@@ -167,7 +167,11 @@ reveal('.home__description', { delay: 2.5 })
 reveal('.home__data .button', { delay: 2.8 })
 
 /* The nav animation only works in the home section */
-
+if (window.scrollY < 100) {
+    reveal('.nav > *', { delay: 1.6, y: -30 })
+} else {
+    gsap.set('.nav > *', { opacity: 1, y: 0 })
+}
 
 /* About animation */
 
