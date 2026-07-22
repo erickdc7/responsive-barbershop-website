@@ -193,6 +193,7 @@ reveal('.work__data .section__title', {})
 reveal('.work__description', { delay: .6 })
 reveal('.work__data .swiper-pagination', { delay: .9 })
 reveal('.work__data :is(.swiper-button-prev, .swiper-button-next)', { delay: 1.2 })
+reveal('.work__swiper', { delay: .9 })
 
 /* Service animation */
 
