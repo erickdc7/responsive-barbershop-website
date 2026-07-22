@@ -202,6 +202,7 @@ reveal('.service__swiper', { delay: .9, stagger: .2 })
 
 /* Expert animation */
 reveal('.expert .section__title', {})
+reveal('.expert__description', { delay: .6 })
 
 /* Contact animation */
 
