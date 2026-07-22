@@ -198,6 +198,7 @@ reveal('.work__swiper', { delay: .9 })
 /* Service animation */
 reveal('.service__data .section__title', {})
 reveal('.service__plan', { delay: .6, stagger: .2 })
+reveal('.service__swiper', { delay: .9, stagger: .2 })
 
 /* Expert animation */
 
