@@ -213,3 +213,4 @@ reveal('.contact__map', { delay: .9 })
 reveal('.contact__card', { delay: 1.2, stagger: .2 })
 
 /* Footer animation */
+reveal('.footer__container', {})
