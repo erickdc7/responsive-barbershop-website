@@ -212,5 +212,4 @@ reveal('.contact__data .button', { delay: .9, y: 0, scale: 0 })
 reveal('.contact__map', { delay: .9 })
 reveal('.contact__card', { delay: 1.2, stagger: .2 })
 
-
 /* Footer animation */
