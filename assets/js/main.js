@@ -207,6 +207,7 @@ reveal('.expert__card', { delay: .9, stagger: .2 })
 
 /* Contact animation */
 reveal('.contact__data .section__title', {})
+reveal('.contact__description', { delay: .6 })
 
 
 
